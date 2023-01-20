@@ -44,6 +44,10 @@ header {
   background-size: cover;
   height: 100vh;
 }
+nav {
+  box-shadow: 0 0.5rem 1rem rgba(var(--bs-body-color-rgb), 0.15) !important;
+  background: rgb(48 50 58 / 51%);
+}
 /* end header */
 /* feature  */
 .feature-con p {
